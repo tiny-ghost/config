@@ -1,0 +1,49 @@
+add_newline = true
+format = """
+[](fg:#3B4252)\
+$os\
+$username\
+[](bg:#88C0D0 fg:#3B4252)\
+$directory\
+($combined [](bg:#B48EAD fg:#88C0D0))\
+$git_branch\
+$git_commit\
+$git_metrics\
+$all\
+"""
+
+[username]
+show_always = true
+style_user = "bg:#3B4252"
+style_root = "bg:#3B4252"
+format = '[ $user ]($style)'
+disabled = false
+
+
+[directory]
+style = "bg:#88C0D0"
+format = '[ $path]($style)'
+truncation_length = 2
+truncate_to_repo = true
+truncation_symbol = ".../"
+
+[git_branch]
+style = "bg:#B48EAD"
+truncation_length = 9
+symbol = ""
+format = '([ $symbol $branch]($style))'
+disabled = false
+
+[git_commit]
+commit_hash_length = 5
+
+[git_metrics]
+disabled = false
+added_style = "bg:#B48EAD"
+format = '([ +$added]($added_style)) (-$deleted) [](bg:#5e81ac fg:#B48EAD)'
+
+[kubernetes]
+style = "bg:#5e81ac"
+symbol = 'ﴱ'
+disabled = false
+format = '[ $symbol $context]($style)'
