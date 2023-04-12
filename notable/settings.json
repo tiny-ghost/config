@@ -1,0 +1,33 @@
+{
+  "editor": {
+    "mode": {
+      "split": {
+        "enabled": false
+      }
+    },
+    "scroll": {
+      "sync": {
+        "enabled": false
+      }
+    }
+  },
+  "view": {
+    "mode": {
+      "zen": {
+        "enabled": false
+      },
+      "centered": {
+        "enabled": false
+      }
+    },
+    "sidebar": {
+      "enabled": true
+    }
+  },
+  "themes": {
+    "active": "light"
+  },
+  "spellChecker": {
+    "enabled": true
+  }
+}

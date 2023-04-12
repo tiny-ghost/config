@@ -1,0 +1,27 @@
+{
+  "cwd": {
+    "current": "C:\\Users\\albert.apsit\\.notable",
+    "recents": "[\"C:\\\\Users\\\\albert.apsit\\\\.notable\"]"
+  },
+  "tutorial": {
+    "inited": true
+  },
+  "changelog": {
+    "lastKnownVersion": "1.9.0-beta.10"
+  },
+  "telemetry": {
+    "id": "iHzazLGk-kluj0U0z-Wmt32e3G"
+  },
+  "editor": {
+    "enabled": false
+  },
+  "fileSystem": {
+    "latestPaths": "[]"
+  },
+  "layoutResizable": {
+    "states": "[[\"app__NOTABLE_SEPARATOR__layout column viewbar no-sash  -layout column sidebar   -layout column mainbar   \",{\"0\":68,\"1\":508,\"2\":1282}],[\"split-editor__NOTABLE_SEPARATOR__monaco-editor-wrapper editor  note-editor layout-content -preview-wrapper layout-content \",{\"0\":1234,\"1\":1234}],[\"split-editor__NOTABLE_SEPARATOR__monaco-editor-wrapper editor layout-content-preview-wrapper layout-content \",{\"0\":1234,\"1\":1234}],[\"split-editor__NOTABLE_SEPARATOR__monaco-editor-wrapper editor centered note-editor layout-content -preview-wrapper layout-content centered\",{\"0\":800,\"1\":800}],[\"preferences__NOTABLE_SEPARATOR__layout layout-content preferences-section-layout layout-content preferences-section\",{\"0\":1200,\"1\":1200}],[\"app__NOTABLE_SEPARATOR__layout column viewbar no-sash  -layout column mainbar   \",{\"0\":68,\"1\":2400}],[\"preferences__NOTABLE_SEPARATOR__layout layout-content preferences-section\",{\"0\":1849}]]"
+  },
+  "view": {
+    "current": "\"explorer\""
+  }
+}
